@@ -1,0 +1,4 @@
+interface:
+  display_name: "6³ 多元敘事包"
+  short_description: "將同一份資料寫成三個廣東話開場，揀定角度再出完整影片講稿"
+  default_prompt: "請用 $cantonese-narrative-6x6x6 根據我貼嘅資料提出三個廣東話開場。"
